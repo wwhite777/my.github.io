@@ -1,5 +1,5 @@
 ## Summary of Qualifications
-### Seasoned full-stack AI engineer with 15+ years of experience designing and deploying end-to-end AI solutions across healthcare technology, robotics/manufacturing, and financial decision systems
+* Seasoned full-stack AI engineer with 15+ years of experience designing and deploying end-to-end AI solutions across healthcare technology, robotics/manufacturing, and financial decision systems
 ### Proven ability to lead the entire machine learning lifecycle – from data modeling and neural network design to MLOps, cloud deployment, and integration into products – with a strong focus on outcomes and product impact
 ### Adept at PyTorch and deep learning frameworks (CNNs, Transformers, LLMs), LLM & Generative AI(RAG design,  LLM evaluation), AI Agents & Agentic Systems (LanChain/LangGraph, MCP), Computer Vision and NLP model development, MLOps, and deploying scalable AI services (cloud infrastructure, CI/CD, APIs)
 ### Achieved significant results such as improving cancer diagnostic model accuracy (pathology slide F1-score from 0.73 to 0.96), accelerating ML pipelines (cut experiment time by 66% via automation), and co-inventing 3 AI patents in healthcare
