@@ -1,4 +1,4 @@
-# Woncheol Jeong
+# Woncheol Jade Jeong
 
 **ML/AI Engineer** | Building production-grade LLM systems, agentic AI, and distributed training infrastructure. Targeting applied research and engineering roles at top US AI labs.
 
