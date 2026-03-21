@@ -29,7 +29,8 @@ Multi-agent clinical decision support system built on LangGraph and MCP (Model C
 ---
 
 ### [DistTrain](https://github.com/wwhite777/distributed-fine-tuning) -- Distributed Training and Inference Infrastructure
-<img width="3520" height="1972" alt="Image" src="https://github.com/user-attachments/assets/e780ddf5-a734-497d-9f95-a3651e85cdce" />
+<img width="1408" height="768" alt="image v4" src="https://github.com/user-attachments/assets/0ab74ccb-5aac-494d-a7ee-a183de5f9876" />
+
 
 Head-to-head comparison of distributed training frameworks -- PyTorch FSDP2, DeepSpeed ZeRO-3, and JAX/Flax -- fine-tuning Llama 3.1 8B across multi-GPU setups with comprehensive profiling of throughput, peak memory, scaling efficiency, and memory breakdown by component. Includes inference serving benchmarks (vLLM vs TensorRT-LLM with INT4/FP8 quantization) and a full MLOps pipeline with W&B dashboards and MLflow model registry.
 
