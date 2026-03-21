@@ -8,6 +8,7 @@
 
 ### [MedLlama](https://github.com/wwhite777/MedLlama) -- Healthcare-Specialized LLM
 <img width="1920" height="1080" alt="image for linkedin v2" src="https://github.com/user-attachments/assets/59b7ba75-6c50-4866-8ec8-4df5ddc563e5" />
+![Uploading image v3.png…]()
 
 Fine-tuned Llama 3.1 8B on medical QA datasets (MedQA, PubMedQA, ChatDoctor) to build a healthcare-specialized language model. Designed and deployed a production-grade RAG pipeline backed by PubMed abstracts in a Qdrant vector database, served through vLLM and FastAPI with W&B experiment tracking.
 
