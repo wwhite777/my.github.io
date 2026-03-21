@@ -7,6 +7,7 @@
 ## Featured Projects
 
 ### [MedLlama](https://github.com/wwhite777/MedLlama) -- Healthcare-Specialized LLM
+<img width="1920" height="1080" alt="image for linkedin v2" src="https://github.com/user-attachments/assets/59b7ba75-6c50-4866-8ec8-4df5ddc563e5" />
 
 Fine-tuned Llama 3.1 8B on medical QA datasets (MedQA, PubMedQA, ChatDoctor) to build a healthcare-specialized language model. Designed and deployed a production-grade RAG pipeline backed by PubMed abstracts in a Qdrant vector database, served through vLLM and FastAPI with W&B experiment tracking.
 
@@ -17,6 +18,7 @@ Fine-tuned Llama 3.1 8B on medical QA datasets (MedQA, PubMedQA, ChatDoctor) to 
 ---
 
 ### [MedAgent](https://github.com/wwhite777/MedAgent) -- Multi-Agent Clinical Decision Support
+<img width="1920" height="1080" alt="image v2" src="https://github.com/user-attachments/assets/c6e6d1de-241f-4551-baa2-64d60248e2f7" />
 
 Multi-agent clinical decision support system built on LangGraph and MCP (Model Context Protocol). Implements an agentic workflow -- triage, literature retrieval, clinical reasoning, report generation -- with conditional routing by ESI (Emergency Severity Index) level and human-in-the-loop safeguards for emergency cases. Integrates with MedLlama's RAG API via MCP tool calling, with a Gradio demo UI.
 
