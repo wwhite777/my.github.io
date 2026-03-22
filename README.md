@@ -7,8 +7,6 @@
 ## Featured Projects
 
 ### [MedLlama](https://github.com/wwhite777/MedLlama) -- Healthcare-Specialized LLM
-<img width="1920" height="1080" alt="image for linkedin v2" src="https://github.com/user-attachments/assets/59b7ba75-6c50-4866-8ec8-4df5ddc563e5" />
-
 Fine-tuned Llama 3.1 8B on medical QA datasets (MedQA, PubMedQA, ChatDoctor) to build a healthcare-specialized language model. Designed and deployed a production-grade RAG pipeline backed by PubMed abstracts in a Qdrant vector database, served through vLLM and FastAPI with W&B experiment tracking.
 
 **Technologies:** Llama 3.1 8B, QLoRA, vLLM, FastAPI, Qdrant, RAG, Weights & Biases
@@ -18,8 +16,6 @@ Fine-tuned Llama 3.1 8B on medical QA datasets (MedQA, PubMedQA, ChatDoctor) to 
 ---
 
 ### [MedAgent](https://github.com/wwhite777/MedAgent) -- Multi-Agent Clinical Decision Support
-<img width="1920" height="1080" alt="image v2" src="https://github.com/user-attachments/assets/c6e6d1de-241f-4551-baa2-64d60248e2f7" />
-
 Multi-agent clinical decision support system built on LangGraph and MCP (Model Context Protocol). Implements an agentic workflow -- triage, literature retrieval, clinical reasoning, report generation -- with conditional routing by ESI (Emergency Severity Index) level and human-in-the-loop safeguards for emergency cases. Integrates with MedLlama's RAG API via MCP tool calling, with a Gradio demo UI.
 
 **Technologies:** LangGraph StateGraph, MCP, GPT-4o-mini, Gradio, multi-agent orchestration, human-in-the-loop
@@ -29,9 +25,6 @@ Multi-agent clinical decision support system built on LangGraph and MCP (Model C
 ---
 
 ### [DistTrain](https://github.com/wwhite777/distributed-fine-tuning) -- Distributed Training and Inference Infrastructure
-<img width="1408" height="768" alt="image v4" src="https://github.com/user-attachments/assets/0ab74ccb-5aac-494d-a7ee-a183de5f9876" />
-
-
 Head-to-head comparison of distributed training frameworks -- PyTorch FSDP2, DeepSpeed ZeRO-3, and JAX/Flax -- fine-tuning Llama 3.1 8B across multi-GPU setups with comprehensive profiling of throughput, peak memory, scaling efficiency, and memory breakdown by component. Includes inference serving benchmarks (vLLM vs TensorRT-LLM with INT4/FP8 quantization) and a full MLOps pipeline with W&B dashboards and MLflow model registry.
 
 **Technologies:** PyTorch FSDP2, DeepSpeed ZeRO-3, JAX/Flax, vLLM, TensorRT-LLM, W&B, MLflow, CUDA
